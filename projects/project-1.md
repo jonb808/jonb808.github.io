@@ -5,9 +5,10 @@ image: images/pokefight.jpg
 title: Pokemon
 permalink: projects/Pokemon
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-03-01
 labels:
   - Java
+  - GitHub
 summary: As a school project, we were tasked with making a program that runs a basic pokemon battle gameplay scenario.
 ---
 
