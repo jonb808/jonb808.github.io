@@ -15,4 +15,5 @@ FIRST robotics is a high school robotics competition where students come togethe
 
 For this project, I was one of the 3 programmers responsible for the autonomous mode as well as the basic controls. Using C++, we began with the basic functions of making the chassy move. Next, we programmed the controls for the shooting mechanism and the pick-up mechanism. These included motors to both pick up balls on the ground and fire them with the appropirate strength. The autonomous portion was more difficult as we had to design a code such that the robot could "sense" the target, align itself accordingly, adjust its distance, and shoot the ball. We used a sensor that could detect the box put around each basket and used that to have the robot position itself for the best possible shot. Our robot placed within the finals for our regional competition and we advanced to the national competition.
 
-
+More information about this competition can be found their website:
+https://www.firstinspires.org/robotics/frc
