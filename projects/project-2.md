@@ -1,25 +1,18 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/firstlogo.jpg
+title: First Robotics
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2013-09-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++
+summary: My first experience with Computer Science in a FIRST robotics competition.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+FIRST robotics is a high school robotics competition where students come together as a team to build a robot to compete against other teams. The rules of the competition is different every year and each team is given a standard set of parts along with a budget for other parts. For this particular project that I am detailing, the competiton required a robot to shoot as many balls into any of the 3 baskets, each worth different points, to score. The objective was to obtain a higher score than the other team. To do this, the robots also had to be able to navigate through the field to collect as many balls as possible. Also, the robots are given a 15-second period to score additional points autonomously. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+For this project, I was one of the 3 programmers responsible for the autonomous mode as well as the basic controls. Using C++, we began with the basic functions of making the chassy move. Next, we programmed the controls for the shooting mechanism and the pick-up mechanism. These included motors to both pick up balls on the ground and fire them with the appropirate strength. The autonomous portion was more difficult as we had to design a code such that the robot could "sense" the target, align itself accordingly, adjust its distance, and shoot the ball. We used a sensor that could detect the box put around each basket and used that to have the robot position itself for the best possible shot. Our robot placed within the finals for our regional competition and we advanced to the national competition.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
