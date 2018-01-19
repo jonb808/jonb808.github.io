@@ -39,19 +39,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Cyber-Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Robotics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Development",
       "keywords": [
       ]
     }
@@ -84,9 +82,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
