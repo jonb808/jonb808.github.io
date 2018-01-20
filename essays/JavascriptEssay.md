@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The little things count! 
+title: Javascript as newbie! 
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
