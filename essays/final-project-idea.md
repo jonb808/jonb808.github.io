@@ -19,3 +19,6 @@ The main page will be set up as a large calendar with assignments in their respe
 ## Case ideas
 The purpose of this project would be to make school more manageable for students. Normally, a student will have to keep a planner of some kind to keep track of their assignments. Manually recording and sorting assignments make it easier for students to get disorganized encounter mistakes or moments of carelessness. In the case where a student may have few assignments and with due dates far into the future, it would not be strange for the student to forget about the later assignments until the day before it is due. The calendar would be able to help by providing a clear overview of all upcoming assignments. It would also make it easier for students to account for assignments in other classes when planning a study schedule. 
 
+## Beyond
+We also plan to find additional features that would work well to help students stay on track. One idea would be to have text notifications available.  
+
