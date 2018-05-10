@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/pokefight.jpg
-title: Pokemon
+title: Simply Pokemon
 permalink: projects/Pokemon
 # All dates must be YYYY-MM-DD format!
 date: 2017-03-01
