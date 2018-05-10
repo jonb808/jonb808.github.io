@@ -16,6 +16,7 @@ Pokemon is a well known game with a relatively simple gameplay. In this game, a 
 
 <img class="ui medium left floated image" src="../images/Pokemonbattle.png">
 
+## learning to piece code together
 For this project, we used Java to create the user interface for a pokemon battle. To do this, we had to use everything we learned during the term. I began by creating the pokemon as objects and sorting them in an array. I then created a type map to account for all the different pokemon types and how they interact against each other. For this simplified pokemon game, I then made a pokedex file to account for other pokemone that the player can encounter. We then put everything together and made a GUI for the player so that he begins with a pokemon and encounters opposing pokemon. The player is then given options that simulate the pokemon battle gameplay. This project was difficult as I was still learning, but through it, I gained experience in combining different pieces of code to make a complete project.
 
 Another valuable part of this experience was learning to include exception handling. I previously never used exceptions much in past experiences, but it proved useful for this project. Because the pokemon code interacted with other components for the simulated gameplay, there were many rules that had to be followed which would otherwise later cause errors in other unassumming pieces of code. Below are some examples of how some of our exceptions were set.
