@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/firstlogo.jpg
-title: First Robotics
+title: My FIRST gateway to CS
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2013-09-01
