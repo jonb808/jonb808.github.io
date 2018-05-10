@@ -21,17 +21,17 @@ More info about Aumakua-UH can be found on our page: https://aumakuauh.github.io
 Working on this final project was a huge learning experience for my team, and it proved to be much more difficult that what we initially thought. The idea of a navigation tool sounded simple, but our idea didn't have a concrete structure planned out so designing a skeleton was the first step. To start off, we used a basic meteor-template to get an idea of how we wanted to separate our pages. We then decided to draw up a non-functional mockup page using images and hardcoded texts to form an outline of what we wanted the app to look like. Because we were unsure of how we would actually begin coding and how the data would be handled, we decided to just attempt it and figure it out as we progressed. 
 
 The initial Mockup page:
-![](images/mappage_initial.jpg)
+<img class="ui medium left floated image" src="../images/mappage_initial.jpg">
 
 ### coordination
 One of the most important parts of this project and my experience with it, is learning how to properly work with fellow programmers to collaborate through github. With the skeleton outlined, we decided to set aside the appearance of each page and instead focused our attention to gaining functionality. Since we wanted to form the structure for our code as we progressed, we felt it easier to break down the functionality of the project into three main parts. One was the map component that would take in data to provide a route which was tasked to Josh. The other part was the collection handling that would interact with the user and send the data to the map, and this was tasked to Keone and I. Though we divided our tasks, it was not strictly as we would regularly meet to discuss our problems and assist each other. These meetings proved very helpful for many of our problems which I will discuss further down in the next section.
 
 For the initial part of collection handling, Keone worked on populating the database collection while I focused on interacting with the database. Working with a smaller temporary collection of sample data, I had to figure out how to pull certain properties from each element in the database to make a usable collection. Many of my attempts failed and so, I had to research further on how MongoDB collections are accessed. Through this experience, I learned how to use subscriptions and publications, and also familiarized myself with more MongoDB methods(reference linked at the bottome of this section). By the end of this, I was able to successfully make a function that will take in the abbreviation from the user, match it to an existing building in our buildings-index database and pull the data out for use. Applying similar principles, I also figured out how to populate the options for the suggested dropdown menu that Keone set up. Following which, we made a personalized user card collection for his added buildings which would automatically create a card with a submission from the dropdown menu. We then worked together with Josh to get the data from the user cards to interact with the map. 
 Suggested Dropdown:
-![](images/Add5_1.jpg)
+<img class="ui medium left floated image" src="../images/Add5_1.jpg">
 
 Card Collection:
-![](images/map5_1.jpg)
+<img class="ui medium left floated image" src="../images/map5_1.jpg">
 
 MongoDB reference: https://docs.mongodb.com/manual/reference/method/
 
